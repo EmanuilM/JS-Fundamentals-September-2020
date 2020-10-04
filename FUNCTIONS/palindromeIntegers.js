@@ -40,9 +40,3 @@ function solve(arr = []) {
 
 
 }
-
-// solve([123,323,421,121])
-
-solve([32,2,232,1010])
-
-// https://judge.softuni.bg/Contests/Compete/Index/1262#4 100/100
