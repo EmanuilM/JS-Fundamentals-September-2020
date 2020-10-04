@@ -15,4 +15,3 @@ function solve(num) {
         console.log(`It's not so perfect.`);
     }
 }
-solve(6);
