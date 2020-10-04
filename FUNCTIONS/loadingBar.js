@@ -19,4 +19,3 @@ function solve(num) {
  
 
 }
-solve(30);
