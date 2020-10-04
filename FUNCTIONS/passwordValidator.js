@@ -31,8 +31,3 @@ function solve(pass) {
   }
     
 }
-
-
-solve('logIn');
-
-// https://judge.softuni.bg/Contests/Compete/Index/1262#5 100 / 100
