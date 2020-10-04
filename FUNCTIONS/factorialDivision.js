@@ -9,4 +9,3 @@ function solve(n1 , n2) {
 
     console.log((result[0] / result[1]).toFixed(2))
 }
-solve(5,2)
