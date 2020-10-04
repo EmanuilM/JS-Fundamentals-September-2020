@@ -13,6 +13,5 @@ function solve(num) {
 
      
 }
-solve(3) 
 
-//https://judge.softuni.bg/Contests/Compete/Index/1262#6 100/100
+
