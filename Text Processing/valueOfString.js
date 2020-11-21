@@ -29,5 +29,4 @@ function solve(arr = []) {
     }
 
     console.log(`The total sum is: ${sum}`);
-
 }
