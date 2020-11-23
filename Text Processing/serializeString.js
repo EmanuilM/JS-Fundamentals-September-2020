@@ -1,7 +1,6 @@
 function solve(input) {
     let text = input.shift().split('');
-   
-   let result = {};
+    let result = {};
     
    for (const index in text) {
       
