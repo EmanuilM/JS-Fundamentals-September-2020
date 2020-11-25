@@ -27,6 +27,5 @@ function solve(input) {
        console.log(`${element[0]}:${element[1].join('/')}`);
    });
    
-   
     
 }
