@@ -1,2 +1,2 @@
 # SoftUni
-![asd](<blockquote class="imgur-embed-pub" lang="en" data-id="a/mWMK3jA" data-context="false" ><a href="//imgur.com/a/mWMK3jA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![687474703a2f2f7777772e6e616b6f762e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30312f536f6674776172652d556e69766572736974792d4c6f676f2d626c75652d686f72697a6f6e74616c2e706e67](https://user-images.githubusercontent.com/71393659/102014931-3679b500-3d61-11eb-9403-f332f5e5c99e.png)
